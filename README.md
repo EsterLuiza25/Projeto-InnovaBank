@@ -34,24 +34,24 @@ python -m venv meuAmbiente
 
 meuAmbiente\Scripts\activate
 
-
+---
 ### 3. Entre na pasta da API utilizando o comando:
 
 cd innova_api
-
+---
 
 ### 4. Instale os frameworks utilizando o seguinte comando:
 
 pip install -r requirements.txt
 
-
+---
 ### 5. Execute as migrações:
 
 python manage.py makemigrations 
 
 python manage.py migrate
 
-
+---
 ### 6. E inicie a API através do comando:
 
 python manage.py runserver
