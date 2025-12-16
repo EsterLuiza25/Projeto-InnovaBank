@@ -14,7 +14,8 @@ para o banco de grande porte **InnovaBank**, que precisava de um sistema moderno
 
 ## Banco de Dados Conceitual e Logico
 
-![alt text](image-1.png)
+<img width="988" height="322" alt="image" src="https://github.com/user-attachments/assets/7bf2a247-efe7-4656-ac5d-f9186a107b14" />
+
 
 
 ![alt text](image-2.png)
