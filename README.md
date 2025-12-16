@@ -78,7 +78,7 @@ User.objects.all()
 <QuerySet []> os usuários aparecem aqui
 
 Sair: exit ()
-
+---
 ### 2. Para modificar a senha do usuário:
  
 python manage.py changepassword <username>
@@ -91,7 +91,7 @@ Password: <preencha a nova senha>
 ---
 
 ### 3. Para criar um novo usuário principal:
-
+---
 python manage.py createsuperuser
 
 Username:
