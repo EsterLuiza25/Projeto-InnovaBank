@@ -18,7 +18,8 @@ para o banco de grande porte **InnovaBank**, que precisava de um sistema moderno
 
 
 
-![alt text](image-2.png)
+![Uploading image.png…]()
+
 
 
 
