@@ -17,8 +17,8 @@ para o banco de grande porte **InnovaBank**, que precisava de um sistema moderno
 <img width="988" height="322" alt="image" src="https://github.com/user-attachments/assets/7bf2a247-efe7-4656-ac5d-f9186a107b14" />
 
 
+<img width="1142" height="229" alt="image" src="https://github.com/user-attachments/assets/bd25d86e-15fe-4ec3-ab5f-038f0efe1fdb" />
 
-![Uploading image.png…]()
 
 
 
